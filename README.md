@@ -63,6 +63,7 @@ Read [this](https://telegram.dog/sources_cods) before you start messing up with 
 ## Deploy
 You can deploy this bot anywhere.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/moviesbotlazyprincessv2)
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincessv2&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
